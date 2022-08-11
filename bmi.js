@@ -8,7 +8,7 @@ if(val < 18.5){
        console.log("Your BMI is "+val+",so you have a normal weight");
     } else {
       if ( val > 24.9) {
-        console.log("Your BMI is "+val+",so you are overweight");
+        console.log("Your BMI is "+val+",so you are overweight, watch your weight");
       }
     }
 }
